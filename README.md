@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Olá eu sou André Luis, desenvolvedor Full Stack, formado em Sistemas de Informação.👋
+  ### Olá eu sou André Luis, Especialista em Desenvolvimento DevOps e Desenvolvedor Full Stack Java/Angular, formado em Sistemas de Informação.👋
   
   <a href="https://github.com/Andre0Luis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre0Luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
