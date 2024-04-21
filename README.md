@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Olá eu sou André Luis, System Enginner e Analista DevOps, formado em Sistemas de Informação, cursando MBA em Engengaria de Software.👋
+  ### Olá eu sou André Luis, System Engineer e Analista DevOps, formado em Sistemas de Informação, cursando MBA em Engengaria de Software.👋
   
   <a href="https://github.com/Andre0Luis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre0Luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
