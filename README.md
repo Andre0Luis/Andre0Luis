@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Olá eu sou André Luis, System Engineer e Analista DevOps, formado em Sistemas de Informação, cursando MBA em Engenharia de Software.👋
+  ### Olá eu sou André Luis, System Engineer e Analista DevOps, formado em Sistemas de Informação com especialização(MBA) em Engenharia de Software.👋
   
   <a href="https://github.com/Andre0Luis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre0Luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -21,8 +21,9 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
-  
-  ##
+
+##
+  ![github-foundations (1)](https://github.com/user-attachments/assets/0e973e9f-598a-4ff4-94b0-9ba2b2a45034)
  
 <div> 
   <a href="https://instagram.com/Andre_lsta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
