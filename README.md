@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Olá eu sou André Luis, System Engineer e Analista DevOps, formado em Sistemas de Informação com especialização(MBA) em Engenharia de Software.👋
+  ### Olá eu sou André Luis, Platform Engineer e Lider Técnico Global, formado em Sistemas de Informação com especialização(MBA) em Engenharia de Software e Pós Graduação em Tech Management na FIAP.👋
   
   <a href="https://github.com/Andre0Luis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre0Luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
