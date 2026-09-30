@@ -50,6 +50,7 @@ If I'm not on a trekking trail with my heavy gear or mastering a new architectur
 *   **🧩 Lego Builder:** I love the focus, patience, and creativity of building complex Lego sets to display on my shelves.
 *   **🔭 Astronomy:** On clear nights, I enjoy observing the cosmos and tracking the moon through my telescope.
 *   **🎶 Soundtrack:** Whether I am coding, hiking, or brewing coffee, I am almost certainly listening to **Imagine Dragons**, my absolute favorite band.
+*   **🛸 Animation:** Whenever I need to unwind and just have a good laugh, you'll find me watching **Rick and Morty**—my absolute favorite animated series!
 
 <br><br>
 
