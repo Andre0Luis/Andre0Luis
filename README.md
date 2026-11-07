@@ -2,7 +2,7 @@
   
   # Hi there, I'm André Luis! 👋
   
-  ### 👨‍💻 Platform & Systems Engineer | ☕ Java & Spring Boot Specialist | 🏛️ Architect of Resilient Solutions
+  ### 👨‍💻 Senior Platform Engineer | ☕ Java & Spring Boot Specialist | 🏛️ Architect of Resilient Solutions
   
   <p><i>🎓 Post-graduation in Tech Management (FIAP), MBA in Software Engineering, and Bachelor's in Information Systems.</i></p>
   
